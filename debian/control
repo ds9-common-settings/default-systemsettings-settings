@@ -1,0 +1,12 @@
+Source: netrunner-systemsettings-settings
+Section: kde
+Priority: extra
+Maintainer: Rohan Garg <rohangarg@kubuntu.org>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+
+Package: netrunner-systemsettings-settings
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Custom desktop files for Netrunner systemsettings
+ Custom desktop files for Netrunner systemsettings
