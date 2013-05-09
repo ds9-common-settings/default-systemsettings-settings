@@ -2,7 +2,7 @@
 Type=Service
 X-KDE-ServiceTypes=SystemSettingsCategory
 X-KDE-System-Settings-Category=account-details
-X-KDE-System-Settings-Parent-Category=system-administration
+X-KDE-System-Settings-Parent-Category=personal
 Icon=preferences-desktop-user
 X-KDE-Weight=10
 

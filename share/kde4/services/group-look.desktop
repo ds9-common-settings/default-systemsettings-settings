@@ -1,9 +1,9 @@
 [Desktop Entry]
 Type=Service
 X-KDE-ServiceTypes=SystemSettingsCategory
-X-KDE-System-Settings-Category=application-appearance-and-behavior
+X-KDE-System-Settings-Category=look
 X-KDE-System-Settings-Parent-Category=
-X-KDE-Weight=80
+X-KDE-Weight=10
 Icon=preferences-desktop-theme
 
 Name=Look and Feel

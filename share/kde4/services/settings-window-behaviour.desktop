@@ -2,8 +2,9 @@
 Type=Service
 X-KDE-ServiceTypes=SystemSettingsCategory
 X-KDE-System-Settings-Category=window-behaviour
-X-KDE-System-Settings-Parent-Category=application-appearance-and-behavior
+X-KDE-System-Settings-Parent-Category=personal
 Icon=preferences-system-windows
+X-KDE-Weight=40
 
 Name=Window Behavior
 Name[af]=Venstergedrag

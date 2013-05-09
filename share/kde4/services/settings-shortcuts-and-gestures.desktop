@@ -2,8 +2,9 @@
 Type=Service
 X-KDE-ServiceTypes=SystemSettingsCategory
 X-KDE-System-Settings-Category=shortcuts-and-gestures
-X-KDE-System-Settings-Parent-Category=application-appearance-and-behavior
+X-KDE-System-Settings-Parent-Category=system-administration
 Icon=preferences-desktop-keyboard
+X-KDE-Weight=100
 
 Name=Shortcuts and Gestures
 Name[ar]=الاختصارات والإيماءات

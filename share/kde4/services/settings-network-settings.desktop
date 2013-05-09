@@ -2,8 +2,9 @@
 Type=Service
 X-KDE-ServiceTypes=SystemSettingsCategory
 X-KDE-System-Settings-Category=network-settings
-X-KDE-System-Settings-Parent-Category=network-and-connectivity
+X-KDE-System-Settings-Parent-Category=system-administration
 Icon=preferences-system-network
+X-KDE-Weight=30
 
 Name=Network Settings
 Name[ar]=إعدادات الشبكة

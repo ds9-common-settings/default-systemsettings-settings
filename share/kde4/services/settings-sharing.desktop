@@ -2,8 +2,9 @@
 Type=Service
 X-KDE-ServiceTypes=SystemSettingsCategory
 X-KDE-System-Settings-Category=sharing
-X-KDE-System-Settings-Parent-Category=network-and-connectivity
+X-KDE-System-Settings-Parent-Category=hardware
 Icon=preferences-system-network-sharing
+X-KDE-Weight=150
 
 Name=Sharing
 Name[ar]=مشاركة

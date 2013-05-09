@@ -9,6 +9,7 @@ X-KDE-ParentApp=kcontrol
 
 X-KDE-System-Settings-Parent-Category=system-administration
 X-DocPath=kcontrol/componentchooser/index.html
+X-KDE-Weight=70
 
 Name=Default Applications
 Name[af]=Verstektoepassings

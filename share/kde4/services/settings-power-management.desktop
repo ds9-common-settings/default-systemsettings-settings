@@ -4,6 +4,8 @@ X-KDE-ServiceTypes=SystemSettingsCategory
 X-KDE-System-Settings-Category=power-management
 X-KDE-System-Settings-Parent-Category=hardware
 Icon=preferences-system-power-management
+X-KDE-Weight=55
+
 
 Name=Power Management
 Name[ar]=إدارة الطاقة

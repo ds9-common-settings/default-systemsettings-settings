@@ -4,6 +4,7 @@ X-KDE-ServiceTypes=SystemSettingsCategory
 X-KDE-System-Settings-Category=application-and-system-notifications
 X-KDE-System-Settings-Parent-Category=system-administration
 Icon=preferences-desktop-notification
+X-KDE-Weight=150
 
 Name=Application and System Notifications
 Name[ar]=تنبيهات التطبيقات والنظام

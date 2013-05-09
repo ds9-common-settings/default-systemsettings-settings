@@ -2,11 +2,12 @@
 Type=Service
 X-KDE-ServiceTypes=SystemSettingsCategory
 X-KDE-System-Settings-Category=desktop-appearance
-X-KDE-System-Settings-Parent-Category=application-appearance-and-behavior
-X-KDE-Weight=100
+X-KDE-System-Settings-Parent-Category=personal
 Icon=preferences-desktop-theme
+X-KDE-Weight=30
 
-Name=Workspace Appearance
+
+Name=Desktop Appearance
 Name[ar]=مظهر مساحة العمل
 Name[ast]=Apariencia del espaciu de trabayu
 Name[bg]=Изглед на работния плот

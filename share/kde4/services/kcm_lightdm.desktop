@@ -6,9 +6,11 @@ X-KDE-ServiceTypes=KCModule
 
 X-KDE-Library=kcm_lightdm
 X-KDE-ParentApp=kcontrol
+X-KDE-Weight=50
 
 Categories=Qt;KDE;X-KDE-settings-system;
-X-KDE-System-Settings-Parent-Category=application-appearance-and-behavior
+X-KDE-System-Settings-Parent-Category=startup-and-shutdown
+
 
 X-KDE-Keywords=lightdm,display manager,face,user,users,login,greeting,theme,language,session,sessions,shutdown,restart,guest,auto login
 X-KDE-Keywords[da]=lightdm,display manager,ansigt,bruger,brugere,login,velkomst,tema,sprog,session,sessioner,nedlukning,genstart,gæst,autologin

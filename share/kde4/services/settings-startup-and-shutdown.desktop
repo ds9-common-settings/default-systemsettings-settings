@@ -4,6 +4,7 @@ X-KDE-ServiceTypes=SystemSettingsCategory
 X-KDE-System-Settings-Category=startup-and-shutdown
 X-KDE-System-Settings-Parent-Category=system-administration
 Icon=preferences-other
+X-KDE-Weight=35
 
 Name=Startup and Shutdown
 Name[ar]=بدء التشغيل والإطفاء

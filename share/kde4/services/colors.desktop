@@ -7,9 +7,9 @@ X-DocPath=kcontrol/colors/index.html
 
 X-KDE-Library=kcm_colors
 X-KDE-ParentApp=kcontrol
+X-KDE-System-Settings-Parent-Category=desktop-appearance
 
-X-KDE-System-Settings-Parent-Category=application-appearance
-X-KDE-Weight=60
+X-KDE-Weight=40
 
 Name=Colors
 Name[af]=Kleure

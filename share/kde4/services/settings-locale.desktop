@@ -2,8 +2,9 @@
 Type=Service
 X-KDE-ServiceTypes=SystemSettingsCategory
 X-KDE-System-Settings-Category=locale
-X-KDE-System-Settings-Parent-Category=system-administration
+X-KDE-System-Settings-Parent-Category=personal
 Icon=preferences-desktop-locale
+X-KDE-Weight=40
 
 Name=Locale
 Name[ar]=المحليّة
