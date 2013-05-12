@@ -4,7 +4,7 @@ X-KDE-ServiceTypes=SystemSettingsCategory
 X-KDE-System-Settings-Category=bluetooth
 X-KDE-System-Settings-Parent-Category=hardware
 Icon=preferences-system-bluetooth
-X-KDE-Weight=50
+X-KDE-Weight=45
 
 Name=Bluetooth
 Name[ar]=بلوتوث

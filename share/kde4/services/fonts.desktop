@@ -8,10 +8,10 @@ X-DocPath=kcontrol/fonts/index.html
 X-KDE-Library=kcm_fonts
 X-KDE-ParentApp=kcontrol
 
-X-KDE-System-Settings-Parent-Category=desktop-appearance
-X-KDE-Weight=60
+X-KDE-System-Settings-Parent-Category=fonts-settings
+X-KDE-Weight=10
 
-Name=Fonts
+Name=Font Settings
 Name[af]=Skriftipes
 Name[ar]=الخطوط
 Name[ast]=Tribes de lletra

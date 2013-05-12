@@ -6,7 +6,7 @@ X-KDE-ServiceTypes=KCModule
 X-DocPath=kcontrol/fontinst/index.html
 
 Categories=Qt;KDE;X-KDE-settings-system;
-X-KDE-System-Settings-Parent-Category=system-administration
+X-KDE-System-Settings-Parent-Category=fonts-settings
 
 X-KDE-Library=kcm_fontinst
 X-KDE-ParentApp=kcontrol
