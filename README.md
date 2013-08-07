@@ -1,4 +1,4 @@
 netrunner-systemsettings-settings
 =================================
 
-different group and sort of KDE System Settings items
+Sets the location for the default KDE settings.
