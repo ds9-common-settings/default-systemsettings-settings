@@ -8,5 +8,8 @@ Standards-Version: 3.9.3
 Package: netrunner-systemsettings-settings
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
+Breaks: kubuntu-settings-desktop, kubuntu-settings-active, kubuntu-settings-netbook
+Replaces: kubuntu-settings-desktop, kubuntu-settings-active, kubuntu-settings-netbook
+Conflicts: kubuntu-settings-desktop, kubuntu-settings-active, kubuntu-settings-netbook
 Description: Custom desktop files for Netrunner systemsettings
  Custom desktop files for Netrunner systemsettings
