@@ -6,7 +6,7 @@ Type=Service
 X-KDE-ServiceTypes=KCModule
 X-KDE-Library=sambamount
 X-KDE-ParentApp=kcontrol
-X-KDE-System-Settings-Parent-Category=sharing
+X-KDE-System-Settings-Parent-Category=network-settings
 
 Name=Network Drives
 Comment=Configure mounts managed by KDE instead of fstab

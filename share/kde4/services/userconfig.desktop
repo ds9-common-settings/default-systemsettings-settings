@@ -14,9 +14,9 @@ X-KDE-Library=kpythonpluginfactory
 X-KDE-ParentApp=kcontrol
 X-KDE-PluginKeyword=userconfig/userconfig.py
 X-KDE-Keywords=user, users, group, groups
-X-KDE-System-Settings-Parent-Category=system-administration
+X-KDE-System-Settings-Parent-Category=other
 X-DocPath=userconfig/index.html
-X-KDE-Weight=10
+X-KDE-Weight=100
 
 
 Categories=Qt;KDE;System;

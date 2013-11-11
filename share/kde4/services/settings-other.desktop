@@ -4,5 +4,6 @@ X-KDE-ServiceTypes=SystemSettingsCategory
 X-KDE-System-Settings-Category=other
 X-KDE-System-Settings-Parent-Category=advanced
 Icon=preferences-other
+X-KDE-Weight=10
 
 Name=Other
