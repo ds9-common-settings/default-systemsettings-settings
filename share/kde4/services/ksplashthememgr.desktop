@@ -9,8 +9,8 @@ X-KDE-ServiceTypes=KCModule
 X-KDE-Library=kcm_ksplashthemes
 X-KDE-ParentApp=kcontrol
 
-#X-KDE-System-Settings-Parent-Category=workspace-behavior
-X-KDE-System-Settings-Parent-Category=desktop-appearance
+X-KDE-System-Settings-Parent-Category=workspace-behavior
+#X-KDE-System-Settings-Parent-Category=desktop-appearance
 X-KDE-Weight=32
 
 Name=Splash Screen

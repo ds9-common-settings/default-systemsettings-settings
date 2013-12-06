@@ -7,9 +7,10 @@ X-KDE-Library=kcm_randr
 X-KDE-ParentApp=kcontrol
 #This is always false when kbuildsycoca runs, probably because it is now a QCoreApplication
 #Hidden[$e]=$(if xdpyinfo|grep RANDR > /dev/null; then echo "false"; else echo "true"; fi)
+#Hidden=true
 
 X-KDE-System-Settings-Parent-Category=display
-X-KDE-Weight=50
+X-KDE-Weight=10
 
 Name=Size & Orientation
 Name[af]=Grootte & Ooriëntasie
