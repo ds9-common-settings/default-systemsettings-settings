@@ -7,7 +7,7 @@ Standards-Version: 3.9.3
 
 Package: netrunner-systemsettings-settings
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}, userconfig
 Breaks: kubuntu-settings-desktop, kubuntu-settings-active, kubuntu-settings-netbook
 Replaces: kubuntu-settings-desktop, kubuntu-settings-active, kubuntu-settings-netbook
 Conflicts: kubuntu-settings-desktop, kubuntu-settings-active, kubuntu-settings-netbook
