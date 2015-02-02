@@ -9,7 +9,7 @@ X-KDE-FactoryName=kcm_activities
 X-KDE-ParentApp=kcontrol
 #X-KDE-System-Settings-Parent-Category=system-administration
 X-KDE-System-Settings-Parent-Category=other
-X-KDE-Weight=20
+X-KDE-Weight=999
 
 Name=Activities
 Name[bs]=Aktivnosti

@@ -9,7 +9,7 @@ X-KDE-Library=kcmspellchecking
 X-KDE-ParentApp=kcontrol
 
 X-KDE-System-Settings-Parent-Category=other
-X-KDE-Weight=30
+X-KDE-Weight=300
 
 Name=Spell Checker
 Name[ar]=مدقق إملائي
