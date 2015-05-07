@@ -2,8 +2,8 @@
 Type=Service
 X-KDE-ServiceTypes=SystemSettingsCategory
 X-KDE-System-Settings-Category=search
-X-KDE-System-Settings-Parent-Category=personal
-X-KDE-Weight=80
+X-KDE-System-Settings-Parent-Category=system-administration
+X-KDE-Weight=200
 Icon=baloo
 
 Name=Search

@@ -2,7 +2,7 @@
 Type=Service
 X-KDE-ServiceTypes=SystemSettingsCategory
 X-KDE-System-Settings-Category=network-settings
-X-KDE-System-Settings-Parent-Category=system-administration
+X-KDE-System-Settings-Parent-Category=hardware
 Icon=preferences-system-network
 X-KDE-Weight=35
 
