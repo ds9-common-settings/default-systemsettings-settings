@@ -4,7 +4,7 @@ X-KDE-ServiceTypes=SystemSettingsCategory
 X-KDE-System-Settings-Category=desktop-appearance
 X-KDE-System-Settings-Parent-Category=personal
 Icon=preferences-desktop-theme
-X-KDE-Weight=30
+X-KDE-Weight=50
 
 
 Name=Desktop Appearance
