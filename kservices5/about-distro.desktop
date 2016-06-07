@@ -1,9 +1,9 @@
 [Desktop Entry]
 Type=Service
 Icon=help-about
-Exec=kcmshell4 about-distro
+Exec=kcmshell5 about-extended
 
-X-KDE-Library=kcm_about_distro
+X-KDE-Library=kcm_about_extended
 X-KDE-ServiceTypes=KCModule
 X-KDE-System-Settings-Parent-Category=advanced
 X-KDE-System-Settings-Parent-Category-V2=advanced
@@ -12,7 +12,7 @@ X-KDE-Weight=100
 
 X-KDE-ParentApp=kcontrol
 X-KDE-ParentApp=kinfocenter
-X-KDE-PluginKeyword=kcm-about-distro
+X-KDE-PluginKeyword=kcm-about-extended
 X-KDE-Keywords=information,distribution,distro,system,kernel,qt,kde
 X-KDE-Keywords[bs]=informacija,distribucija,distro,sistem,kernel,qt,kde
 X-KDE-Keywords[da]=Information,distribution,distro,system,kerne,qt,kde
