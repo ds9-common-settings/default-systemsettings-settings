@@ -1,15 +1,15 @@
-Source: netrunner-systemsettings-settings
+Source: default-systemsettings-settings
 Section: kde
 Priority: extra
 Maintainer: Rohan Garg <rohangarg@kubuntu.org>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.3
 
-Package: netrunner-systemsettings-settings
+Package: default-systemsettings-settings
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Breaks: kubuntu-settings-desktop, kubuntu-settings-active, kubuntu-settings-netbook
 Replaces: kubuntu-settings-desktop, kubuntu-settings-active, kubuntu-settings-netbook
 Conflicts: kubuntu-settings-desktop, kubuntu-settings-active, kubuntu-settings-netbook
-Description: Custom desktop files for Netrunner systemsettings
- Custom desktop files for Netrunner systemsettings
+Description: Custom desktop files for systemsettings
+ Custom desktop files for systemsettings

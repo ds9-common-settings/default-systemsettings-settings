@@ -1,4 +1,4 @@
-netrunner-systemsettings-settings (0-0netrunner1~ppa1) UNRELEASED; urgency=low
+default-systemsettings-settings (0-0netrunner1~ppa1) UNRELEASED; urgency=low
 
   * Initial Release.
 
